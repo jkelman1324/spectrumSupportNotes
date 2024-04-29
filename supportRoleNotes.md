@@ -1,8 +1,6 @@
 # Spectrum Support Role Notes
 
 - These notes are for Spectrum's Administrative Support Specialist role.
-- email: support@spectrumeval.com
-- pw: Poru0947!
 
 ## Email
 
